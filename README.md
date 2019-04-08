@@ -1,0 +1,2 @@
+# fundamentalsinr
+Fundamentals in R
