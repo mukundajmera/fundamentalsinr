@@ -1,5 +1,5 @@
 #Basic operation on vectors
-#assinging 3 vectors
+#assinging 4 vectors
 vec1 <- c(4,7,12)
 vec2 <- c(9,12,14)
 vec3 <- c(3,8)
@@ -31,6 +31,7 @@ vec5 <- vec1/vec2
 
 #absolute quotient
 vec6 <- vec1 %/% vec2
+
 vec6 <- vec2 %/% vec1
 
 #mod
