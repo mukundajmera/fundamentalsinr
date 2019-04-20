@@ -19,7 +19,7 @@ c <- a/b
 c <- a%%b
 
 #Power
-c <- 5**2
+c <- 3**3
 
 
 #Working with Strings
@@ -44,3 +44,4 @@ sprintf("print : %s %d %d %d", str1,a,b,c)
 
 ?sprintf
   
+sprintf("%s Mukund,  %s ", str1,str2)

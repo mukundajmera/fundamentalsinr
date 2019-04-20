@@ -4,7 +4,7 @@
 #Method 1 using "=" 
 variableA = 10
 
-#Method 2 using "<-" assignmnet operator
+#Method 2 using "<-" assignment operator
 variableB <- 20
 
 
