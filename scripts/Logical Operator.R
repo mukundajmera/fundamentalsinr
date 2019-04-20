@@ -23,10 +23,10 @@ x > 10 & x < 12
 
 #OR operator (Left operand and Rigth operand Both or Either should have true or false)
 #using  "|"
-#(T & T) = T
-#(T & F) = T
-#(F & T) = T
-#(F & F) = F
+#(T | T) = T
+#(T | F) = T
+#(F | T) = T
+#(F | F) = F
 
 x > 5 | x < 12
 

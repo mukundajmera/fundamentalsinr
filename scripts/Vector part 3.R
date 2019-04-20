@@ -1,9 +1,9 @@
 #Basic operation on vectors
 #assinging 4 vectors
-vec1 <- c(4,7,12)
-vec2 <- c(9,12,14)
-vec3 <- c(3,8)
-vec4 <- c(1,2,3,5,6,7)
+vec1 <- c(4,7,12)  #length 3
+vec2 <- c(9,12,14) #length 3
+vec3 <- c(3,8)     #length 2 
+vec4 <- c(1,2,3,5,6,7) #length 6
 
 #addition 
 

@@ -2,10 +2,10 @@
 #function matrix(Data, Rows, Cols, Byrow)
 ?matrix
 
-mat1 <- matrix(1:8, nrow = 4,ncol = 4)
+mat1 <- matrix(1:16, nrow = 4,ncol = 4)
 
 #using byrow to fill data by rows
-mat2 <- matrix(1:8, nrow = 4,ncol = 4,byrow = T)
+mat2 <- matrix(1:16, nrow = 4,ncol = 4,byrow = T)
 
 #Checking variable type of matrix
 class(mat2)

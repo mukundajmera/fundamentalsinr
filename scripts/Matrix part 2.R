@@ -1,5 +1,5 @@
 #Accessing element of different position of matrix
-mat1 <- matrix(1:8, nrow = 4,ncol = 4)
+mat1 <- matrix(1:16, nrow = 4,ncol = 4)
 #variable[row,column]
 mat1
 
@@ -21,7 +21,7 @@ mat1[,1]
 # Operations on matrix
 # Arithmatic Operation on matrix
 
-mat5 <- matrix(1:8,nrow = 4,ncol = 4)
+mat5 <- matrix(1:16,nrow = 4,ncol = 4)
 
 mat6 <- matrix(9:16,nrow = 4,ncol = 4)
 #Note operation of matrix only work with same diminsions
