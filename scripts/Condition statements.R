@@ -1,6 +1,7 @@
 #use of If condition 
 
-# if(boolean_expression) {
+#syntax
+# if(boolean_expression or condition) {
 #   // statement(s) will execute if the boolean expression is true.
 # }
 
@@ -48,7 +49,7 @@ if (x < 0) {
 
 #example
 
-marks <- 99
+marks <- 40
 
 if (marks > 90) {
   

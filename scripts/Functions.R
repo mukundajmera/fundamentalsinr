@@ -22,6 +22,7 @@ function_length <- function(var1){
 }
 
 vec1 <- c(1,6,8,4,23,6,89)
+
 function_length(vec1)
 
 #function with no return value
@@ -39,6 +40,7 @@ square_of_number_five <- function() {
     print(i**2)
   }
 }	
+
 square_of_number_five()
 
 

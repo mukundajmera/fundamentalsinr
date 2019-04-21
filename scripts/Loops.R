@@ -1,4 +1,5 @@
 #using loops in R
+
 #using repeat
 x <- 5
 #syntax of repeat
@@ -28,7 +29,7 @@ repeat {
 
 x <- 3
 while (x > 0) {
-  print(paste("Count of x",x))
+  print(paste("Count of x ",x))
   
   x <- x - 1
 }
